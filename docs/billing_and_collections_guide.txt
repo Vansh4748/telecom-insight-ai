@@ -1,0 +1,16 @@
+Billing and Collections Guide
+
+Payment status values
+A bill is Paid when payment is received, Pending when it is issued but not yet due or not yet settled, and Overdue when the due date has passed without payment.
+
+Unpaid rate
+The unpaid rate is the share of bills that are Pending or Overdue. A high unpaid rate reduces cash flow, so it is a key indicator for finance and collections teams.
+
+Pending versus overdue
+Pending bills need a reminder, while Overdue bills need follow-up. Treating them separately helps the team focus on the accounts that carry the most risk.
+
+Typical collection actions
+Common practice is to send reminders by SMS or email, then call the customer, then offer a payment plan, and only after notice restrict services. Postpaid customers with large overdue amounts are usually contacted first.
+
+Missing bill amounts
+A bill with no amount cannot be collected or analysed. Missing amounts should be investigated with the billing system owner, because they may point to a failed invoice run rather than a customer issue.

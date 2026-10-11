@@ -1,0 +1,13 @@
+Postpaid and Prepaid Segments
+
+Postpaid customers
+Postpaid customers receive a bill after use. They typically have higher data usage, more call minutes, and a higher ARPU than prepaid customers, and they carry credit risk if a bill is not paid.
+
+Prepaid customers
+Prepaid customers pay before use through recharges. They usually have lower ARPU and lower usage, they carry no credit risk, and they churn more easily because they can switch operators without notice.
+
+Comparing segments
+When comparing the two segments, look at ARPU, average data usage, and unpaid rate together. A segment with high ARPU but a high unpaid rate may earn less than it appears.
+
+Using the analysis for action
+Postpaid customers with a high unpaid rate are candidates for collections follow-up. Prepaid customers with low and falling usage are candidates for retention offers such as data boosters or bundled recharges.

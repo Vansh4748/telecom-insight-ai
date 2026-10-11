@@ -1,0 +1,16 @@
+Telecom KPI Glossary
+
+ARPU (Average Revenue Per User)
+ARPU is total revenue divided by the number of users in a period, usually one month. Comparing ARPU between postpaid and prepaid plans shows which segment earns more per subscriber.
+
+ARPU and missing bill amounts
+If some bill amounts are missing, ARPU is calculated only on the bills that have a value. A report should state how many bills were excluded, because missing amounts can make ARPU look higher or lower than the true figure.
+
+Churn rate
+Churn is the share of subscribers who leave in a period. Prepaid churn is harder to measure than postpaid churn, because prepaid users can stop recharging without formally cancelling.
+
+Data usage per user
+This is the average number of GB a subscriber uses in a month. The mean is pulled up by a few very heavy users, so the median is often a better picture of a typical subscriber. Reports should show both.
+
+Minutes of Use (MoU)
+MoU is the average number of call minutes per subscriber per month. A falling MoU together with rising data usage is a common sign that customers are moving from calls to data and messaging apps.

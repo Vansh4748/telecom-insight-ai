@@ -1,0 +1,16 @@
+Usage Anomalies and Data Quality
+
+Detecting outliers
+The IQR rule flags a value as an outlier when it is below Q1 minus 1.5 times the IQR, or above Q3 plus 1.5 times the IQR. It is simple, works without assuming a normal distribution, and matches what a box plot draws.
+
+Possible causes of very high data usage
+A very high value can be a genuine heavy user, such as streaming or mobile hotspot sharing. It can also come from a metering or billing error, a data-entry mistake, or a SIM used in a device that is not a phone.
+
+What to do with an outlier
+Do not delete an outlier automatically. Verify it first with the usage or billing team. Report the mean and the median together, because one extreme value can distort the mean a lot.
+
+Missing values
+Missing usage values often come from late or failed usage-record files. The report should show how many values are missing in each column. Missing values should not be silently filled with zero, because that would understate usage.
+
+Small groups and city-level averages
+An average based on only one or two customers is unreliable. If a city shows a very high average, check the number of customers behind it and whether a single outlier is responsible before drawing conclusions.
